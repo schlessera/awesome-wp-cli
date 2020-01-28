@@ -1,4 +1,4 @@
-name: Lint the list with awesome-lint
+name: Run tests
 
 on:
   push:
