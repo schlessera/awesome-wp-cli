@@ -1,0 +1,29 @@
+{
+  "name": "awesome-wp-cli",
+  "version": "1.0.0",
+  "description": "A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schlessera/awesome-wp-cli.git"
+  },
+  "keywords": [
+    "awesome",
+    "wp-cli",
+    "wordpress",
+    "cli",
+    "shell",
+    "console"
+  ],
+  "author": "Alain Schlesser <alain.schlesser@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/schlessera/awesome-wp-cli/issues"
+  },
+  "homepage": "https://github.com/schlessera/awesome-wp-cli#readme",
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
+}
