@@ -79,12 +79,17 @@ The commands that are part of the official WP-CLI organization but are not bundl
 
 Unofficial third-party packages.
 
+- [Yoast/wp-cli-faker](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+- [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 
 
 ## Tutorials & Guides
 
 Websites, ebooks, PDFs, talks and slide shows about how to make the most out of WP-CLI.
 
+- [An Introduction to WP-CLI](https://pascalbirchler.com/an-introduction-to-wp-cli/) - Introductory article that introduces the main concepts and some popular use cases of WP-CLI.
+- [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
+- [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 
 
 ## Contribute
