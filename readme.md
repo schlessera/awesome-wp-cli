@@ -1,3 +1,4 @@
+<!--lint disable awesome-git-repo-age-->
 # Awesome WP-CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
