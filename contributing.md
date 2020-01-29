@@ -15,7 +15,7 @@ If you want to submit something new to this list, please ensure your pull reques
     - Entry names and entry descriptions are capitalized, except when trademarks would disagree.
     - All entry descriptions end in a period (`.`).
     - Entries can be groups for related sub-entries, using indentation levels to show hierarchy.
-- **Content must be in English.** Most awesome lists focus on English content as it is considered the "international" content. Anything non-English would already be hard to qualify as the "go-to" resource because the language then acts as a limiting factor. If a resource is the go-to resource because it is the best, it is also worth translating. If you have something like that, we'd like to know about it. Maybe we can channel the power of the community to translate it and make it available to more people.
+- **Content must be in English.** Most awesome lists focus on English content as it is considered the "international" content. Anything non-English would already be hard to qualify as the "go-to" resource because the language then acts as a limiting factor. If a non-English resource is the go-to resource because it is the best, it is also worth translating. If you have something like that, we'd like to know about it. Maybe we can channel the power of the community to translate it and make it available to more people.
 
 ## Using the GitHub web interface to create a pull request
 
