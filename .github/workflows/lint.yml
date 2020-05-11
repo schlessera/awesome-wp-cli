@@ -20,5 +20,4 @@ jobs:
       with:
         node-version: 10.x
     - run: npm install
-    # Can only run the tests without fail once the repo is more than 30 days old.
-    # - run: npx awesome-lint
+    - run: npx awesome-lint
