@@ -6,13 +6,17 @@
 
 ## Contents
 
-- [Official Links](#official-links)
-- [Third-party Packages](#third-party-packages)
-	- [Package Discovery](#package-discovery)
-- [Tutorials & Guides](#tutorials--guides)
+- [Official links](#official-links)
+	- [Infrastructure](#infrastructure)
+	- [Bundled commands](#bundled-commands)
+	- [Optional commands](#optional-commands)
+- [Third-party packages](#third-party-packages)
+	- [Package discovery](#package-discovery)
+	- [Notable packages](#notable-packages)
+- [Tutorials & guides](#tutorials--guides)
 
 
-## Official Links
+## Official links
 
 Everything relevant that is directly part of the official WP-CLI team.
 
@@ -76,18 +80,18 @@ The commands that are part of the official WP-CLI organization but are not bundl
 - [wp-cli/scaffold-package-command](https://github.com/wp-cli/scaffold-package-command) - Scaffolds WP-CLI commands with functional tests, full README.md, and more.
 - [wp-cli/wp-super-cache-cli](https://github.com/wp-cli/wp-super-cache-cli) - A CLI interface for the WP Super Cache plugin.
 
-## Third-party Packages
+## Third-party packages
 
 Unofficial third-party packages.
 
-### Package Discovery
+### Package discovery
 
 Ways of searching for third-party packages you can use.
 
 - [Packagist.org search by WP-CLI package type](https://packagist.org/?type=wp-cli-package) - Composer packages filtered by type `wp-cli-package`.
 - [GitHub.com search for WP-CLI integrations](https://github.com/search?q=WP_CLI%3A%3Aadd_command%28+NOT+Akismet_CLI+NOT+elementor+NOT+WordCamp_CLI_Miscellaneous+NOT+W3TotalCache_Command+extension%3Aphp+language%3APHP+-org%3Awp-cli+-path%3Avendor+-path%3Awp-content+-path%3Apublic+-path%3Adeployer+-path%3Aweb+-path%3Asrc%2Fvendor+-path%3Aapp+-path%3Awordpress+-filename%3Aentity-command.php+-filename%3Aclass-wc-cli.php+-filename%3Awp-cli-bp.php+fork%3Afalse+-filename%3Aextension-command.php+-filename%3Acron-command.php+-filename%3Awp-seo-main.php+-path%3Aplugins+-path%3Adata+-path%3Abackup+-path%3Ademo+-path%3Awordcamp.org+-path%3Awordpress.org+-filename%3Alanguage-command.php+-filename%3Aredirection-cli.php+-path%3Athemes+-path%3Alibrary+-filename%3Aeval-command+-filename%3Arole-command+-filename%3Awidget-command+-filename%3Acache-command.php+-path%3Awp-app+-path%3Apublic_html+-filename%3Aqueue.php+-path%3AmyWeb+-path%3Adocroot+-path%3Awebsite&type=Code) - Heavily pre-filtered search for repositories that use `WP_CLI::add_command()`.
 
-### Notable Packages
+### Notable packages
 
 Third-party packages that are commonly useful.
 
@@ -96,7 +100,7 @@ Third-party packages that are commonly useful.
 - [schlessera/wp-cli-psysh](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 
 
-## Tutorials & Guides
+## Tutorials & guides
 
 Websites, ebooks, PDFs, talks and slide shows about how to make the most out of WP-CLI.
 
