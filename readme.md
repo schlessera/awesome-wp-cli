@@ -1,3 +1,7 @@
+<a href="https://wp-cli.org/">
+    <img src="assets/wp-cli-bw-trans-filled-tight@311x160.png" alt="WP-CLI Logo" title="WP-CLI Logo" align="right" height="60" />
+</a>
+
 # Awesome WP-CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
