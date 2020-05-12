@@ -8,6 +8,7 @@
 
 - [Official Links](#official-links)
 - [Third-party Packages](#third-party-packages)
+	- [Package Discovery](#package-discovery)
 - [Tutorials & Guides](#tutorials--guides)
 
 
@@ -78,6 +79,16 @@ The commands that are part of the official WP-CLI organization but are not bundl
 ## Third-party Packages
 
 Unofficial third-party packages.
+
+### Package Discovery
+
+Ways of searching for third-party packages you can use.
+
+- [Packagist.org search by WP-CLI package type](https://packagist.org/?type=wp-cli-package) - Composer packages filtered by type `wp-cli-package`.
+
+### Notable Packages
+
+Third-party packages that are commonly useful.
 
 - [Yoast/wp-cli-faker](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
