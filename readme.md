@@ -10,7 +10,6 @@
 	- [Notable packages](#notable-packages)
 - [Tutorials & guides](#tutorials--guides)
 
-
 ## Official links
 
 Everything relevant that is directly part of the official WP-CLI team.
@@ -61,11 +60,3 @@ Websites, ebooks, PDFs, talks and slide shows about how to make the most out of 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Alain Schlesser has waived all copyright and
-related or neighboring rights to this work.
