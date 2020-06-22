@@ -1,4 +1,4 @@
-# Awesome WP-CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[<img src="assets/wp-cli-bw-trans-filled-tight@311x160.png" alt="WP-CLI Logo" align="right" height="80">](https://wp-cli.org)
+# Awesome WP-CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[<img src="assets/wp-cli-bw-trans-filled-tight@311x160.png" alt="WP-CLI Logo" align="right" height="80">](https://wp-cli.org) ![awesome-lint](https://github.com/schlessera/awesome-wp-cli/workflows/Run%20tests/badge.svg)
 
 [WP-CLI](https://wp-cli.org/) is the command-line interface for WordPress. It offers a complete alternative to the WordPress admin dashboard, often even surpassing its functionality or enabling new use cases. It also comes with a rich ecosystem of third-party commands that are bundled in Composer packages or directly integrated into WordPresss plugins or themes.
 
