@@ -9,7 +9,6 @@
 	- [Package discovery](#package-discovery)
 	- [Notable packages](#notable-packages)
 - [Tutorials & guides](#tutorials--guides)
-- [Contribute](#contribute)
 
 ## Official links
 
