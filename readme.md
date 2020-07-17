@@ -45,7 +45,7 @@ Third-party packages that are commonly useful.
 - [Yoast/wp-cli-faker](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 - [schlessera/wp-cli-psysh](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
-- [codeatcode/wp-cli-getbyurl](https://github.com/CodeAtCode/wp-cli-getbyurl) - Get post id and post type/taxonomy from post url
+- [codeatcode/wp-cli-getbyurl](https://github.com/CodeAtCode/wp-cli-getbyurl) - Get post id and post type/taxonomy from post url.
 
 ## Tutorials & guides
 
@@ -55,8 +55,8 @@ Websites, ebooks, PDFs, talks and slide shows about how to make the most out of 
 - [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 - [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 - [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
-- [What you can do with WP-CLI](http://mte90.tech/Talk-WPCLI/#/) - Examples, script and many user cases from real experience with WP-CLI
-- [Codeatcode/WP-CLI scripts](https://github.com/CodeAtCode/WPCli-scripts) - Set of scripts based on wp cli
+- [What you can do with WP-CLI](http://mte90.tech/Talk-WPCLI/#/) - Examples, script and many user cases from real experience with WP-CLI.
+- [Codeatcode/WP-CLI scripts](https://github.com/CodeAtCode/WPCli-scripts) - Set of scripts based on wp cli.
 
 ## Contribute
 
