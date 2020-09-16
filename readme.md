@@ -1,5 +1,7 @@
-# Awesome WP-CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/schlessera/awesome-wp-cli/workflows/awesome-lint/badge.svg)](https://github.com/schlessera/awesome-wp-cli/actions?query=workflow%3Aawesome-lint) [<img src="assets/wp-cli-bw-trans-filled-tight@311x160.png" alt="WP-CLI Logo" align="right" height="80">](https://wp-cli.org)
+<!--lint ignore double-link-->
+# Awesome WP-CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/schlessera/awesome-wp-cli/workflows/awesome-lint/badge.svg)](https://github.com/schlessera/awesome-wp-cli/actions?query=workflow%3Aawesome-lint) [<img src="assets/wp-cli-bw-trans-filled-tight@311x160.png" alt="WP-CLI Logo" align="right" height="80">](https://wp-cli.org/)
 
+<!--lint ignore double-link-->
 [WP-CLI](https://wp-cli.org/) is the command-line interface for WordPress. It offers a complete alternative to the WordPress admin dashboard, often even surpassing its functionality or enabling new use cases. It also comes with a rich ecosystem of third-party commands that are bundled in Composer packages or directly integrated into WordPresss plugins or themes.
 
 ## Contents
@@ -14,6 +16,7 @@
 
 Everything relevant that is directly part of the official WP-CLI team.
 
+<!--lint ignore double-link-->
 - [wp-cli.org](https://wp-cli.org/) - Homepage of the WP-CLI project.
 - [WP-CLI handbook](https://make.wordpress.org/cli/handbook/) - Guides on how to use or extend WP-CLI.
 - [WP-CLI command reference](https://developer.wordpress.org/cli/commands/) - Reference documentation for all the official WP-CLI commands.
