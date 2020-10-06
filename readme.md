@@ -49,6 +49,7 @@ Third-party packages that are commonly useful.
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 - [schlessera/wp-cli-psysh](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 - [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
+- [TypistTech/image-optimize-command](https://github.com/TypistTech/image-optimize-command) - Image Optimize Command is a WP CLI wrapper for spatie/image-optimizer.
 
 ## Tutorials & guides
 
