@@ -49,6 +49,8 @@ Third-party packages that are commonly useful.
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
 - [schlessera/wp-cli-psysh](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 - [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
+- [inpsyde/wp-cli-site-url](https://github.com/inpsyde/wp-cli-site-url) - Adds the command `site-url` to WP-CLI. It allows you to change site URLs via the command line interface.
+- [inpsyde/wp-db-tools-cli](https://github.com/inpsyde/wp-db-tools-cli) - Provides commands to manipulate database tables.
 
 ## Tutorials & guides
 
