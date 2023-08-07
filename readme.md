@@ -61,7 +61,7 @@ Websites, ebooks, PDFs, talks and slide shows about how to make the most out of 
 - [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 - [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
 - [CaptainCore Cookbook](https://captaincore.io/cookbook/) - Collection of WP-CLI commands and bash scripts for automating WordPress maintenance.
-- [Liquid Web: WP-CLI help articles](https://www.liquidweb.com/kb/tag/wp-cli/) - Discover the joyous wonders of using WP-CLI with your WordPress instance
+- [Liquid Web: WP-CLI help articles](https://www.liquidweb.com/kb/tag/wp-cli/) - Discover the joyous wonders of using WP-CLI with your WordPress instance.
 
 ## Contribute
 
